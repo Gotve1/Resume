@@ -88,7 +88,6 @@
 #connections(
   [#connection-with-icon("location-dot")[Tashkent, Uzbekistan]],
   [#link("mailto:akselvolkov40@gmail.com", icon: false, if-underline: false, if-color: false)[#connection-with-icon("envelope")[akselvolkov40\@gmail.com]]],
-  [#link("https://linkedin.com/in/rendercv", icon: false, if-underline: false, if-color: false)[#connection-with-icon("linkedin")[rendercv]]],
   [#link("https://github.com/Gotve1", icon: false, if-underline: false, if-color: false)[#connection-with-icon("github")[Gotve1]]],
 )
 
@@ -110,6 +109,37 @@
     
   ],
 )
+
+== Experience
+
+#regular-entry(
+  [
+    #strong[Qo'noq hotel chain]
+
+  ],
+  [
+    Mar 2026 – present
+
+  ],
+)
+
+== Skills
+
+#strong[Languages:] Russian (in perfection), Uzbek (in perfection), English (IELTS 5.5)
+
+#strong[Programming Languages:] Python, Java
+
+#strong[Tools:] Spring boot, Spring Security, Lombok, JDBC, PostgreSQL, HTML, CSS, JavaScript, Android Studio
+
+== Selected Honors
+
+- #link("https://drive.google.com/file/d/1kXuF9pzTRSSEnPC65qt1y3r40HsHM5Zi/view?usp=drive_link")[IT Sertificates]
+
+- #link("https://drive.google.com/file/d/1jWUCEA-QJjZk1ASixAESBNFZ73K4Ag21/view?usp=drive_link")[Language Sertificates]
+
+- #link("https://drive.google.com/file/d/1pGIrgtrlKXAyQaEQsltsizP209p7t_CW/view?usp=drive_link")[School Sertificate]
+
+- #link("https://drive.google.com/file/d/16cfc5zlJSHnP3DCj2Ig6tQG1K-YTtPUt/view?usp=drive_link")[Recomendation Letters]
 
 == Projects
 
@@ -265,19 +295,3 @@
 
   ],
 )
-
-== Selected Honors
-
-- #link("https://drive.google.com/file/d/1kXuF9pzTRSSEnPC65qt1y3r40HsHM5Zi/view?usp=drive_link")[IT Sertificates]
-
-- #link("https://drive.google.com/file/d/1jWUCEA-QJjZk1ASixAESBNFZ73K4Ag21/view?usp=drive_link")[Language Sertificates]
-
-- #link("https://drive.google.com/file/d/1pGIrgtrlKXAyQaEQsltsizP209p7t_CW/view?usp=drive_link")[School Sertificate]
-
-- #link("https://drive.google.com/file/d/16cfc5zlJSHnP3DCj2Ig6tQG1K-YTtPUt/view?usp=drive_link")[Recomendation Letters]
-
-== Skills
-
-#strong[Languages:] Python, Java
-
-#strong[Tools:] Spring boot, Spring Security, Lombok, JDBC, PostgreSQL, HTML, CSS, JavaScript, Android Studio

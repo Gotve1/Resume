@@ -2,7 +2,6 @@
 
 - Email: [akselvolkov40@gmail.com](mailto:akselvolkov40@gmail.com)
 - Location: Tashkent, Uzbekistan
-- LinkedIn: [rendercv](https://linkedin.com/in/rendercv)
 - GitHub: [Gotve1](https://github.com/Gotve1)
 
 
@@ -16,6 +15,29 @@ Tashkent, Uzbekistan
 Sept 2023 – May 2025
 
 
+
+# Experience
+## **Qo'noq hotel chain**
+
+Mar 2026 – present
+
+
+
+# Skills
+**Languages:** Russian (in perfection), Uzbek (in perfection), English (IELTS 5.5)
+
+**Programming Languages:** Python, Java
+
+**Tools:** Spring boot, Spring Security, Lombok, JDBC, PostgreSQL, HTML, CSS, JavaScript, Android Studio
+
+# Selected Honors
+- [IT Sertificates](https://drive.google.com/file/d/1kXuF9pzTRSSEnPC65qt1y3r40HsHM5Zi/view?usp=drive_link)
+
+- [Language Sertificates](https://drive.google.com/file/d/1jWUCEA-QJjZk1ASixAESBNFZ73K4Ag21/view?usp=drive_link)
+
+- [School Sertificate](https://drive.google.com/file/d/1pGIrgtrlKXAyQaEQsltsizP209p7t_CW/view?usp=drive_link)
+
+- [Recomendation Letters](https://drive.google.com/file/d/16cfc5zlJSHnP3DCj2Ig6tQG1K-YTtPUt/view?usp=drive_link)
 
 # Projects
 ## **[Lover Flower](https://github.com/Gotve1/Lover-Flower)**
@@ -145,17 +167,3 @@ A CLI messanger that uses jdbc for communication with PostgreSQL database
 - Threading and concurrent programming for smooth user experience without blocking UI
 
 
-
-# Selected Honors
-- [IT Sertificates](https://drive.google.com/file/d/1kXuF9pzTRSSEnPC65qt1y3r40HsHM5Zi/view?usp=drive_link)
-
-- [Language Sertificates](https://drive.google.com/file/d/1jWUCEA-QJjZk1ASixAESBNFZ73K4Ag21/view?usp=drive_link)
-
-- [School Sertificate](https://drive.google.com/file/d/1pGIrgtrlKXAyQaEQsltsizP209p7t_CW/view?usp=drive_link)
-
-- [Recomendation Letters](https://drive.google.com/file/d/16cfc5zlJSHnP3DCj2Ig6tQG1K-YTtPUt/view?usp=drive_link)
-
-# Skills
-**Languages:** Python, Java
-
-**Tools:** Spring boot, Spring Security, Lombok, JDBC, PostgreSQL, HTML, CSS, JavaScript, Android Studio
